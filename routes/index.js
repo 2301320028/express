@@ -6,7 +6,7 @@ router.get('/', function(req, res, next) {
 <<<<<<< HEAD
   res.render('index', { title: 'Express2' });
 =======
-  res.render('index', { title: 'Express 2' });
+
 >>>>>>> ac3039621d03e23d55a38156831661fe42cf9788
 });
 
